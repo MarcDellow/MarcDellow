@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MarcDellow
+- MetARverse® SDK Developer at GeoAR.it
 - 👀 I’m interested in progressing in software development
-- 🌱 I’m currently learning HTML, CSS, Java and Python
+- 🌱 I’m currently learning HTML, CSS, Java, C# and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dellowuk999@gmail.com
 
